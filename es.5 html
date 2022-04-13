@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+  
+  div.sfondo {
+     background-color: #ffd480
+       }
+  
+  span.titolo {
+     font-style: italic; /* normal oblique */
+     font-weight: 900; /* normal bold 100-900, 400 is normal 700 bold */
+     }
+     
+    </style>
+    </head>
+    <body> <!-- commento -->
+    <div class="sfondo">
+    <span class="titolo">Saturno</span> <br/>
+    Il primo studio condotto dai ricercatori Swedish...
+    e dell'università.....
+    .....
+    SKR (Saturn...)
+    </div>
+    </body>
+    </html>
+    
